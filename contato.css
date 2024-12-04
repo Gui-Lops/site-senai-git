@@ -92,7 +92,7 @@ span {
 }
 
 section.formulario {
-    min-height: 100vh;
+    height: 100vh;
     padding: 80px 4%;
 }
 
